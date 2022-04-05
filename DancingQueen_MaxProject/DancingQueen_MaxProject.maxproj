@@ -2,8 +2,8 @@
 	"name" : "DancingQueen_MaxProject",
 	"version" : 1,
 	"creationdate" : 3698839337,
-	"modificationdate" : 3698839337,
-	"viewrect" : [ 0.0, 0.0, 300.0, 500.0 ],
+	"modificationdate" : 3731998702,
+	"viewrect" : [ 25.0, 107.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"DancingQueen_TempoAttack.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
@@ -33,7 +38,7 @@
 	}
 ,
 	"detailsvisible" : 0,
-	"amxdtype" : 0,
+	"amxdtype" : 1633771873,
 	"readonly" : 0,
 	"devpathtype" : 0,
 	"devpath" : ".",
